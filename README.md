@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Akarsh Upadhyay</h1>
+<h3 align="center">Currently learning with "Attentions", because it's all we need</h3>
 
-<!--
-**uakarsh/uakarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [LaTr (Layout Aware Transformer for VQA)](https://github.com/uakarsh/latr)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently exploring **Deep Learning with Recommendation System, Speech Recognition**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [this link](https://github.com/uakarsh)
+
+- 📝 I regularly write articles on [medium](https://iakarshu.medium.com/)
+
+- 💬 Ask me about **PyTorch and associated Frameworks**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akarsh-upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarsh-upadhyay" height="30" width="40" /></a>
+<a href="https://kaggle.com/akarshu121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akarshu121" height="30" width="40" /></a>
+<a href="https://medium.com/@iakarshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iakarshu" height="30" width="40" /></a>
+</p>
+
+
