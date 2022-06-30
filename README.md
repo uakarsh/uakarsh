@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/uakarsh)
 
-- 📝 I regularly write articles on [medium](https://iakarshu.medium.com/)
+- 📝 I occasionally write articles on [medium](https://iakarshu.medium.com/)
 
 - 💬 Ask me about **PyTorch and associated Frameworks**
 
