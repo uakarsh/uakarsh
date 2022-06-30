@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Upadhyay</h1>
-<h3 align="center">Currently learning with "Attentions", because it's all we need</h3>
+<h3 align="center">Currently playing with "Attentions", because it's all we need</h3>
 
 - 🔭 I’m currently working on [LaTr (Layout Aware Transformer for VQA)](https://github.com/uakarsh/latr)
 
