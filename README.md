@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Upadhyay</h1>
-<h3 align="center">Currently learning"Attentions", because it's all we need
+<h3 align="center">Currently learning "Attentions", because it's all we need
 </h3>
 
 - 🔭 I’m currently working on [LaTr (Layout Aware Transformer for VQA)](https://github.com/uakarsh/latr)
@@ -18,5 +18,7 @@
 <a href="https://kaggle.com/akarshu121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akarshu121" height="30" width="40" /></a>
 <a href="https://medium.com/@iakarshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iakarshu" height="30" width="40" /></a>
 </p>
-
+<h3> Note: I am currently looking for Internship/Full Time role in Applied/Research area of Machine learning,
+so, if you do have any Applied/Research Role, do let me know.
+</h3>
 
