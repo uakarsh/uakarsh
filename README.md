@@ -2,9 +2,7 @@
 <h3 align="center">Currently learning "Attentions", because it's all we need
 </h3>
 
-- 🔭 I’m currently working on [LaTr (Layout Aware Transformer for VQA)](https://github.com/uakarsh/latr)
-
-- 🌱 I’m currently exploring **Deep Learning with Recommendation System, Speech Recognition**
+- 🔭 I’m currently working in the field of Document AI and VQA
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/uakarsh)
 
